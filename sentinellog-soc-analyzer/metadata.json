@@ -1,0 +1,5 @@
+{
+  "name": "SentinelLog SOC Analyzer",
+  "description": "A secure SOC automation tool for analyzing Linux auth.log files, detecting SSH brute-force attacks, and generating AI-driven incident reports using Gemini.",
+  "requestFramePermissions": []
+}
